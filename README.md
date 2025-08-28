@@ -27,6 +27,9 @@ npm run dev
 
 By default, the dev server runs on http://localhost:8080
 
+
+while the live hosted site link-https://68b05b80155a0433074d6342--gentle-lily-2ca9ae.netlify.app/
+
 ## Tech Stack
 - React 18, TypeScript, Vite, Redux
 - Tailwind CSS, shadcn/ui
