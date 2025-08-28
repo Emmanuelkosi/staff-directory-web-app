@@ -50,5 +50,6 @@ src/
 ```sh
 npm run build
 ```
+live hosted site link-https://68b05b80155a0433074d6342--gentle-lily-2ca9ae.netlify.app/
 The optimized production build will be output to `dist/`.
 created by Ugwumgbo Emmanuel
