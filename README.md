@@ -1,4 +1,4 @@
-# Staff Hub - Employee Directory
+# Staff Directory- Web application
 
 A professional staff directory and employee management system built with React, TypeScript, and modern web technologies.
 
@@ -28,7 +28,7 @@ npm run dev
 By default, the dev server runs on http://localhost:8080
 
 ## Tech Stack
-- React 18, TypeScript, Vite
+- React 18, TypeScript, Vite, Redux
 - Tailwind CSS, shadcn/ui
 - Zustand, React Hook Form, Zod
 
